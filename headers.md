@@ -1,3 +1,3 @@
 # headers
-## [C](./C/README.md)
+## [C](./C/)
 ### [cudaRC.h](./C/cudaRC.md)
