@@ -1,7 +1,13 @@
 # Thetre
 cudaTheatre performes as a server which could run cuda code remotely by receiving requests.
 
-# Params
+# Crucial Dependencies
+## [CPure](https://github.com/yuisanae2f/CPure)
+Performs the dynamic allocation on managing heap memory.
+## [Cuda](https://developer.nvidia.com/cuda-downloads)
+The open-source library to command the GPU from NVDA.
+
+# Main Params
 This programme has three params of launchng.  
 Basically arguments follow this format.
 
@@ -24,3 +30,6 @@ to manage the value via your browser.
 
 ## [CDRC](./req/cdrc.md)
 to manage the value directly with this C library.
+
+# Map
+to allocate the value to calculate on GPU.
