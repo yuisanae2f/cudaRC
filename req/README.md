@@ -9,4 +9,4 @@ shows the page on your browser in order to check and manage the situation.
 to manage the value via your browser.
 
 ## [CDRC](./cdrc.md)
-to manage the value directly with this C library.
+to manage the value directly with this [C library](https://github.com/yuisanae2f/cudaRC/tree/cdrc).

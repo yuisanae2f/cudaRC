@@ -7,6 +7,9 @@ Performs the dynamic allocation on managing heap memory.
 ## [Cuda](https://developer.nvidia.com/cuda-downloads)
 The open-source library to command the GPU from NVDA.
 
+# Download
+## x64 Windows
+
 # Main Params
 This programme has three params of launchng.  
 Basically arguments follow this format.
@@ -18,7 +21,7 @@ cudaTheatre ip-address(=127.0.0.1) port(=8080)
 Basically following arguments could be omitted.  
 In the round brackets are the default values in the case of not written.
 
-# [Available Requests](./req/README.md)
+# [Available Requests](./req/)
 Three types of requests are available.  
 Which are [GET](./req/get.md), [POST](./req/post.md), [CDRC](./req/cdrc.md).
 
