@@ -1,5 +1,5 @@
-# CDRC
-to manage the value directly with this C library.
+# [CDRC](https://github.com/yuisanae2f/cudaRC/tree/cdrc)
+to manage the value directly with this [C library](https://github.com/yuisanae2f/cudaRC/tree/cdrc).  
 
 ## get
 gets the value from the key.
@@ -7,4 +7,8 @@ gets the value from the key.
 sets the value which matches the key.
 ## run
 runs the function from certain dll path.  
-the 
+the function must match the following format.
+
+```c
+typedef cudaError_t(*ae2f_cdRCFun)(ptr_ae2f_Map);
+```

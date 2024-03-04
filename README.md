@@ -29,7 +29,8 @@ shows the page on your browser in order to check and manage the situation.
 to manage the value via your browser.
 
 ## [CDRC](./req/cdrc.md)
-to manage the value directly with this C library.
+to manage the value directly with this [C library](https://github.com/yuisanae2f/cudaRC/tree/cdrc).
 
 # Map
-to allocate the value to calculate on GPU.
+to allocate the value to calculate on GPU.  
+to store them, it uses the map based on Container from [CPure](https://github.com/yuisanae2f/CPure).
