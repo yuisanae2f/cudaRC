@@ -8,7 +8,7 @@ Performs the dynamic allocation on managing heap memory.
 The open-source library to command the GPU from NVDA.
 
 # Download
-## x64 Windows
+## [x64 Windows](./Windows/x64/)
 
 # Main Params
 This programme has three params of launchng.  
