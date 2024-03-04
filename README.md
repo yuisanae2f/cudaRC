@@ -1,5 +1,6 @@
 # cudaRC
 runs the code from cuda remotely via dynamic linker library(dll).  
+Warning: it is not completed. The format may be changed dramatically.
 
 # Crucial Dependencies
 ## [CPure](https://github.com/yuisanae2f/CPure)
